@@ -141,7 +141,7 @@ Open the notebooks in `code/` using Google Colab or Jupyter Notebook.
 
 ## Contributors
 
-- **Rahmat Hidayat** - [@myGroomy](https://github.com/myGroomy)
+- **Taufik Alwan** - [@myGroomy](https://github.com/myGroomy)
 
 ---
 
